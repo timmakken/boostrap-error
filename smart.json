@@ -1,10 +1,10 @@
 {
 	"name": "bootrap-errors",
 	"description": "A pattern to display application errors to the user",
-	"homepage": "https://github.com/Lynu/meteor-bootstrap-errors",
+	"homepage": "https://github.com/timmakken/meteor-bootstrap-errors",
 	"author": "Tim Makken <t.makken@gmail.com>",
 	"version": "0.1.0",
-	"git": "https://github.com/Lynu/meteor-bootstrap-errors.git",
+	"git": "https://github.com/timmakken/meteor-bootstrap-errors.git",
 	"packages": {
 	}
 }

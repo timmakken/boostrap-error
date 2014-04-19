@@ -1,0 +1,1 @@
+A simple meteor package for showing bootstrap errors
